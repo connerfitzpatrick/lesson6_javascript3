@@ -10,7 +10,7 @@ Web Application Development
 (Conner Fitzpatrick)
 
 ### Project Description:
-(In this assignment a photo gallery was created and new image previes were created to show either 3 or 5 images)
+(In this assignment a photo gallery was created and new image previews were created to show either 3 or 5 images)
 
 ### View Project:
 (https://connerfitzpatrick.github.io/lesson6_javascript3/.)
